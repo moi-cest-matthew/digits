@@ -50,3 +50,7 @@ body .navbar {
 .bg-dark a.dropdown-item {
   color: var(--matr-navbar-bg);
 }
+
+.navbar a.nav-link.active {
+  color: white;
+}
